@@ -1,0 +1,15 @@
+/* line 1, staticfiles/base/layout.scss */
+body {
+  margin: auto;
+  padding: 0;
+  box-sizing: border-box;
+  min-width: 360px;
+  max-width: 1910px;
+  max-height: auto;
+  font-size: 1em;
+  font-weight: 400;
+  font-size: 13.5px;
+  color: #333;
+  line-height: 20px;
+  -webkit-text-size-adjust: 100%;
+  overflow-x: hidden; }
